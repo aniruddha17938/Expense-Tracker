@@ -1,2 +1,2 @@
 # Expense-Tracker
-HTML, CSS, JS project 7
+A simple and dynamic expense tracker built using HTML, CSS, and JS 
